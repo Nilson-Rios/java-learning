@@ -1,4 +1,4 @@
 # java-learning
-java web with springs
+java web - springs
 
-Repository of java exercises done in java web with spring course
+Repository of java exercises done in java web using spring course
