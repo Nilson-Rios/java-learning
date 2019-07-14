@@ -1,4 +1,4 @@
 # java-learning
 java web with springs
 
-Repository created from the codes learned in the java web with spring course
+Repository of java exercises done in java web with spring course
